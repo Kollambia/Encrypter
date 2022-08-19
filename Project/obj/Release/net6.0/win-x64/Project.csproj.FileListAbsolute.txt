@@ -1,0 +1,15 @@
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\bin\Release\net6.0\win-x64\Project.exe
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\bin\Release\net6.0\win-x64\Project.deps.json
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\bin\Release\net6.0\win-x64\Project.runtimeconfig.json
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\bin\Release\net6.0\win-x64\Project.dll
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\bin\Release\net6.0\win-x64\Project.pdb
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.csproj.AssemblyReference.cache
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.AssemblyInfoInputs.cache
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.AssemblyInfo.cs
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.csproj.CoreCompileInputs.cache
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.dll
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\refint\Project.dll
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.pdb
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\Project.genruntimeconfig.cache
+C:\Users\ermek\OneDrive\Рабочий стол\PRoj\Project1\Project\obj\Release\net6.0\win-x64\ref\Project.dll

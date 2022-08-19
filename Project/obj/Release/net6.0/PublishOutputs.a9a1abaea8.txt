@@ -1,0 +1,5 @@
+C:\Users\ermek\OneDrive\Рабочий стол\Project.exe
+C:\Users\ermek\OneDrive\Рабочий стол\Project.dll
+C:\Users\ermek\OneDrive\Рабочий стол\Project.deps.json
+C:\Users\ermek\OneDrive\Рабочий стол\Project.runtimeconfig.json
+C:\Users\ermek\OneDrive\Рабочий стол\Project.pdb
