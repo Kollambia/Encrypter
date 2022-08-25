@@ -1,1 +1,1 @@
-fat girls are cool
+loli girls are cool
